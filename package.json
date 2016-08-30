@@ -1,0 +1,24 @@
+{
+  "name": "xmocker",
+  "version": "1.0.0",
+  "description": "A simulation data generator for HTML",
+  "main": "dist/xmocker.js",
+  "scripts": {
+    "build": "gulp",
+    "clean": "gulp clean"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixcai/xmocker.git"
+  },
+  "keywords": [
+    "mock",
+    "data"
+  ],
+  "author": "pixcai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pixcai/xmocker/issues"
+  },
+  "homepage": "https://github.com/pixcai/xmocker#readme"
+}
